@@ -1,4 +1,12 @@
-# react-netflix
+# A netflix-clone built using ReactJS
+## Technologies used are :
+*** REACT
+###JAVASCRIPT
+###AXIOS
+###FIREBASE
+###API
+###BOOTSTRAP
+###API
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
