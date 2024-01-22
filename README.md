@@ -1,7 +1,7 @@
 # A netflix-clone built using ReactJS
 ## Technologies used are :
-*** REACT
-###JAVASCRIPT
+### REACT
+### JAVASCRIPT
 ###AXIOS
 ###FIREBASE
 ###API
