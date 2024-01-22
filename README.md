@@ -7,7 +7,29 @@
 ### [API](https://developer.themoviedb.org/reference/search-movie)
 ### [BOOTSTRAP](https://getbootstrap.com/)
 
-<br>
+
+# Glimpse of the project
+### User Registration
+
+![Screenshot (1370)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/9b236568-ffab-4194-b660-7ac5ae21ea70)
+
+### Netflix Homepage
+![Screenshot (1369)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/775cdeed-17db-4730-bca8-3b8079dc7653)
+
+### Registration with invalid account
+
+![Screenshot (1371)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/5a983306-b98a-45a2-8591-802d08c60d52)
+
+### Saved details of registered users
+
+![Screenshot (1368)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/6d667ae3-39fc-4dc7-ab1b-fa892d334aba)
+### Logout Page
+
+![Screenshot (1372)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/a39faca4-af05-44ee-a45c-4f1bc8389500)
+
+### Firebase storing details of registered users
+
+![Screenshot (1373)](https://github.com/aanchaltripathy/react-netflix/assets/86507308/3521e7a8-5904-44ce-84ee-1e75c398fc3b)
 
 # Getting Started with Create React App
 
